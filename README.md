@@ -54,6 +54,9 @@ The project includes a classification model to predict accident severity (minor,
 
 ## Installation & Usage
 1. Clone this repository:
-   ```bash
    git clone https://github.com/your-username/weather-based-accidents.git
    cd weather-based-accidents
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the notebook:
+   jupyter notebook weather_based_accidents.ipynb
